@@ -1,1 +1,1 @@
-project kecil kecil an tentang mmebuat aplikasi klasir sebuah restoran 
+project kecil kecil an tentang membuat aplikasi kasir sebuah restoran 
